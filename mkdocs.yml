@@ -4,6 +4,7 @@ pages:
   - Introduction: 'about/intro.md'
   - Mods:
     - Home: 'mods/index.md'
+    - ZombieMod: 'mods/zombiemod.md'
   - Plugins:
     - Home: 'plugins/index.md'
     - Spigot:
