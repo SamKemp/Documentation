@@ -19,4 +19,4 @@ See the tutorials section.
   helpme.reply A player with this permission can use /helpreply
 
 [Download]: https://github.com/untamemadman/BungeeHelpMe/releases/download/1.0/BungeeHelpMe-1.0.jar
-[Tutorial]: http://docs.untamemadman.pw/en/latest/tutorials/plugins/bungeecord/bungeehelpme.md
+[Tutorial]: http://docs.untamemadman.pw/en/latest/tutorials/plugins/bungeecord/bungeehelpme/
