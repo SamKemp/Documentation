@@ -6,6 +6,9 @@ This mod adds many things liked by the YouTuber ZombieWarsSMT.
 
 [Channel Link]
 
+#Mod Showcase
+[![Mod Showcase](http://img.youtube.com/vi/aGWn9y8eFTw/0.jpg)](http://www.youtube.com/watch?v=aGWn9y8eFTw "Minecraft Mod Showcase: ZOMBIEWARS MOD?!?!? ")
+
 #Mod Includes
 Butter
 Chocolate
