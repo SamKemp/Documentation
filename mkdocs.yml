@@ -3,7 +3,7 @@ pages:
   - Home: 'index.md'
   - Introduction: 'about/intro.md'
   - Mods:
-    -Home: 'mods/index.md'
+    - Home: 'mods/index.md'
   - Plugins:
     - Home: 'plugins/index.md'
     - Spigot:
