@@ -6,8 +6,8 @@ pages:
     - Home: 'mods/index.md'
   - Plugins:
     - Home: 'plugins/index.md'
-    - Spigot: 'plugins/spigot/index.md
-    - BungeeCord: 'plugins/bungeecord/index.md
+    - Spigot: 'plugins/spigot/index.md'
+    - BungeeCord: 'plugins/bungeecord/index.md'
       - BungeeHelpMe: 'plugins/bungeecord/bungeehelpme.md'
   - Tutorials:
     - Home: 'tutorials/index.md'
