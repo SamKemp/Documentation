@@ -2,20 +2,18 @@
 pages:
   - Home: 'index.md'
   - Introduction: 'about/intro.md'
-  - Mods:
-    - Home: 'mods/index.md'
-  - Plugins:
-    - Home: 'plugins/index.md'
-    - Spigot: 'plugins/spigot/index.md'
-    - BungeeCord: 'plugins/bungeecord/index.md'
-      - BungeeHelpMe: 'plugins/bungeecord/bungeehelpme.md'
+  - Mods: 'mods/index.md'
+  - Plugins: 'plugins/index.md'
+  - Spigot Plugins: 'plugins/spigot/index.md'
+  - BungeeCord Plugins: 'plugins/bungeecord/index.md'
+    - BungeeHelpMe: 'plugins/bungeecord/bungeehelpme.md'
   - Tutorials:
     - Home: 'tutorials/index.md'
     - Mods: 'tutorials/mods/index.md'
     - Plugins: 'tutorials/plugins/index.md'
-      - Spigot: 'tutorials/plugins/spigot/index.md'
-      - BungeeCord: 'tutorials/plugins/bungeecord/index.md'
-        - BungeeHelpMe: 'tutorials/plugins/bungeecord/bungeehelpme.md'
+    - Spigot Plugins: 'tutorials/plugins/spigot/index.md'
+    - BungeeCord Plugins: 'tutorials/plugins/bungeecord/index.md'
+      - BungeeHelpMe: 'tutorials/plugins/bungeecord/bungeehelpme.md'
     
   
 
