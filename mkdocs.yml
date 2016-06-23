@@ -1,0 +1,24 @@
+# If you add a page, you must add it to the index here
+pages:
+  - Home: 'index.md'
+  - Introduction: 'about/intro.md'
+  - Mods:
+    - Home: 'mods/index.md'
+  - Plugins:
+    - Home: 'plugins/index.md'
+  - Tutorials:
+    - Home: 'tutorials/index.md'
+  
+
+# Do not edit in PRs below here
+site_name: Documentation
+
+markdown_extensions:
+  - admonition
+  - smarty
+  - sane_lists
+
+extra_css:
+  - css/style_fixes.css
+
+theme: readthedocs
