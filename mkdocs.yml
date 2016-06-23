@@ -6,8 +6,17 @@ pages:
     - Home: 'mods/index.md'
   - Plugins:
     - Home: 'plugins/index.md'
+    - Spigot: 'plugins/spigot/index.md
+    - BungeeCord: 'plugins/bungeecord/index.md
+      - BungeeHelpMe: 'plugins/bungeecord/bungeehelpme.md'
   - Tutorials:
     - Home: 'tutorials/index.md'
+    - Mods: 'tutorials/mods/index.md'
+    - Plugins: 'tutorials/plugins/index.md'
+      - Spigot: 'tutorials/plugins/spigot/index.md'
+      - BungeeCord: 'tutorials/plugins/bungeecord/index.md'
+        - BungeeHelpMe: 'tutorials/plugins/bungeecord/bungeehelpme.md'
+    
   
 
 # Do not edit in PRs below here
